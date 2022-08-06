@@ -27,5 +27,5 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=suryan-s&show_icons=true&locale=en&count_private=true&theme=radical" alt="suryan-s" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryan-s&" alt="suryan-s" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryan-s&theme=radical" alt="suryan-s" />
 </p>
