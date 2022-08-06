@@ -26,6 +26,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryan-s&show_icons=true&locale=en&layout=compact" alt="suryan-s" /></p>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryan-s&show_icons=true&locale=en&count_private=true&theme=gruvbox" alt="suryan-s" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryan-s&show_icons=true&locale=en&count_private=true&theme=merko" alt="suryan-s" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryan-s&" alt="suryan-s" />
 </p>
