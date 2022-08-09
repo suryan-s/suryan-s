@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suryan</h1>
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45"
+         width="45" /> I'm Suryan</h1>
 <h3 align="center">Working to inspire and change the world, epoch by epoch</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryan-s&label=Profile%20views&color=0e75b6&style=flat" alt="suryan-s" /> </p>
