@@ -2,7 +2,7 @@
          width="45" /> I'm Suryan</h1>
 <h3 align="center">Working to inspire and change the world, epoch by epoch</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryan-s&label=Profile%20views&color=0e75b6&style=flat" alt="suryan-s" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryan-s&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="suryan-s" /> </p>
 
 - 🔭 I’m currently working on **Machine learning and Internet of things based projects**
 
