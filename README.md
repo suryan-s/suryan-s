@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryan-s&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="suryan-s" /> </p>
 
-- 🔭 I’m currently working on **Machine learning and Internet of things based projects**
+- 🔭 I’m currently working on **Chatbots, Machine learning and Internet of things based projects**
 
 - 🌱 I’m currently learning **Tensorflow and PyTorch**
 
