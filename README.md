@@ -2,7 +2,7 @@
          width="45" /> I'm Suryan</h1>
 <h3 align="center">Working to inspire and change the world, epoch by epoch</h3>
 
-![snake gif](https://github.com/suryan-s/suryan-s/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/suryan-s/suryan-s/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suryan-s&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="suryan-s" /> </p>
 
