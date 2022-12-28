@@ -1,5 +1,5 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45"
-         width="45" /> I'm Suryan</h1>
+ <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
+ <h1 align="center"> Hola, I'm Suryan</h1>
 <h3 align="center">Working to inspire and change the world, epoch by epoch</h3>
 
 ![snake gif](https://github.com/suryan-s/suryan-s/blob/output/github-contribution-grid-snake.svg)
