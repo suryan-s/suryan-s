@@ -42,6 +42,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryan-s&show_icons=true&locale=en&layout=compact&theme=synthwave&count_private=true" alt="suryan-s" /></p>
 
 <p float="left">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=suryan-s&show_icons=true&locale=en&count_private=true&theme=synthwave" alt="suryan-s" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryan-s&theme=synthwave" alt="suryan-s" />
 </p>
