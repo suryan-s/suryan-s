@@ -45,3 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=suryan-s&show_icons=true&locale=en&count_private=true&theme=synthwave" alt="suryan-s" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryan-s&theme=synthwave" alt="suryan-s" />
 </p>
+
+<p>
+<h3 align="left">Coding stats:</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>
