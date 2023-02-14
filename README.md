@@ -49,7 +49,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=suryan-s&bg_color=050505&color=ffffff&line=ff0000&point=f31212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>
-<h3 align="left">Coding stats:</h3>
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
