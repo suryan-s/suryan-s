@@ -52,5 +52,13 @@
 
 <!--START_SECTION:waka-->
 
+```text
+From: 13 February 2023 - To: 14 February 2023
+
+Total Time: 4 mins
+
+Dart   4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
 </p>
