@@ -44,6 +44,7 @@
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=suryan-s&show_icons=true&locale=en&count_private=true&theme=synthwave" alt="suryan-s" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryan-s&theme=synthwave" alt="suryan-s" />
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=suryan-s&bg_color=050505&color=ffffff&line=ff0000&point=f31212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <p>
