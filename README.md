@@ -55,14 +55,17 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 February 2023 - To: 16 February 2023
+From: 13 February 2023 - To: 17 February 2023
 
-Total Time: 1 hr 58 mins
+Total Time: 5 hrs 34 mins
 
-Python       1 hr 30 mins    >>>>>>>>>>>>>>>>>>>------   76.60 %
-Dart         21 mins         >>>>>--------------------   18.45 %
-YAML         5 mins          >------------------------   04.50 %
-Other        0 secs          -------------------------   00.30 %
+Python       4 hrs 33 mins   >>>>>>>>>>>>>>>>>>>>-----   81.74 %
+Text         24 mins         >>-----------------------   07.25 %
+Dart         21 mins         >>-----------------------   06.54 %
+YAML         5 mins          -------------------------   01.60 %
+HTML         4 mins          -------------------------   01.20 %
+CSV          3 mins          -------------------------   01.04 %
+Other        1 min           -------------------------   00.54 %
 ```
 
 <!--END_SECTION:waka-->
