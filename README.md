@@ -7,7 +7,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/suryan-s/suryan-s/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suryan-s&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="suryan-s" /> </p>
 
 <p align="center">
