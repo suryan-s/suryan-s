@@ -51,20 +51,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2023 - To: 27 November 2023
+From: 13 February 2023 - To: 28 November 2023
 
-Total Time: 780 hrs 4 mins
+Total Time: 784 hrs 29 mins
 
-Python                495 hrs 34 mins >>>>>>>>>>>>>>>>---------   63.53 %
-Dart                  146 hrs 50 mins >>>>>--------------------   18.82 %
-Docker                24 hrs 22 mins  >------------------------   03.12 %
-Text                  17 hrs 14 mins  >------------------------   02.21 %
-HTML                  15 hrs 43 mins  >------------------------   02.02 %
-SQL                   12 hrs 43 mins  -------------------------   01.63 %
-Markdown              11 hrs 38 mins  -------------------------   01.49 %
+Python                498 hrs 26 mins >>>>>>>>>>>>>>>>---------   63.54 %
+Dart                  146 hrs 50 mins >>>>>--------------------   18.72 %
+Docker                24 hrs 26 mins  >------------------------   03.11 %
+Text                  17 hrs 47 mins  >------------------------   02.27 %
+HTML                  15 hrs 43 mins  >------------------------   02.01 %
+SQL                   12 hrs 43 mins  -------------------------   01.62 %
+Markdown              11 hrs 38 mins  -------------------------   01.48 %
 JSON                  7 hrs 40 mins   -------------------------   00.98 %
-Bash                  7 hrs 27 mins   -------------------------   00.96 %
-YAML                  6 hrs 35 mins   -------------------------   00.85 %
+Bash                  7 hrs 27 mins   -------------------------   00.95 %
+YAML                  6 hrs 35 mins   -------------------------   00.84 %
 ```
 
 <!--END_SECTION:waka-->
