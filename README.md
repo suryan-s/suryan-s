@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2023 - To: 22 May 2024
+From: 13 February 2023 - To: 23 May 2024
 
-Total Time: 1,170 hrs 51 mins
+Total Time: 1,173 hrs 10 mins
 
-Python                627 hrs 5 mins  >>>>>>>>>>>>>------------   53.56 %
-Dart                  304 hrs 27 mins >>>>>>>------------------   26.00 %
-YAML                  35 hrs 8 mins   >------------------------   03.00 %
+Python                627 hrs 6 mins  >>>>>>>>>>>>>------------   53.45 %
+Dart                  304 hrs 35 mins >>>>>>-------------------   25.96 %
+YAML                  35 hrs 11 mins  >------------------------   03.00 %
 Docker                30 hrs 6 mins   >------------------------   02.57 %
 Text                  28 hrs 48 mins  >------------------------   02.46 %
 ```
