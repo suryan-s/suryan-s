@@ -21,11 +21,11 @@
  </a>
 </p>
 
-- 🔭 I’m currently working on **Machine learning and server based projects**
+- 🔭 I’m currently working on **Backend based projects**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Python, C/C++, Dart/Flutter, Go, Arduino/Raspberrypi/ESP32, IoT/IIoT**
+- 💬 Ask me about **Python, C/C++, Dart/Flutter, Rust, Arduino/Raspberrypi/ESP32, IoT/IIoT**
 
 - 📫 How to reach me **suryannasa@gmail.com suryans0405@gmail.com**
 
