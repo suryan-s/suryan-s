@@ -53,12 +53,12 @@
 ```txt
 From: 13 February 2023 - To: 31 December 2024
 
-Total Time: 1,470 hrs 7 mins
+Total Time: 1,475 hrs 38 mins
 
-Python                683 hrs 23 mins >>>>>>>>>>>>-------------   46.49 %
-Dart                  372 hrs 37 mins >>>>>>-------------------   25.35 %
-Rust                  124 hrs 4 mins  >>-----------------------   08.44 %
-Text                  31 hrs 8 mins   >------------------------   02.12 %
+Python                685 hrs 37 mins >>>>>>>>>>>>-------------   46.46 %
+Dart                  373 hrs 37 mins >>>>>>-------------------   25.32 %
+Rust                  125 hrs 59 mins >>-----------------------   08.54 %
+Text                  31 hrs 11 mins  >------------------------   02.11 %
 ```
 
 <!--END_SECTION:waka-->
