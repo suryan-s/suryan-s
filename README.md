@@ -21,15 +21,15 @@
  </a>
 </p>
 
-- 🔭 I’m currently working on **Backend based projects**
+- 🔭 I’m currently working on **Full-Stack based projects**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **.NET Core and Angular**
 
 - 💬 Ask me about **Python, C/C++, Dart/Flutter, Rust, Arduino/Raspberrypi/ESP32, IoT/IIoT**
 
 - 📫 How to reach me **suryannasa@gmail.com suryans0405@gmail.com**
 
-- ⚡ Fun fact **There are two ways to write an error free code. Only the third one works!**
+- ⚡ Fun fact **There are two ways to write error-free code. Only the third one works!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
