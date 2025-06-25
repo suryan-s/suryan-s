@@ -51,14 +51,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2023 - To: 24 June 2025
+From: 13 February 2023 - To: 25 June 2025
 
-Total Time: 1,555 hrs 28 mins
+Total Time: 1,557 hrs 1 min
 
-Python                689 hrs 16 mins >>>>>>>>>>>--------------   44.31 %
-Dart                  386 hrs 16 mins >>>>>>-------------------   24.83 %
-Rust                  125 hrs 59 mins >>-----------------------   08.10 %
-Text                  31 hrs 31 mins  >------------------------   02.03 %
+Python                689 hrs 16 mins >>>>>>>>>>>--------------   44.27 %
+Dart                  386 hrs 16 mins >>>>>>-------------------   24.81 %
+Rust                  125 hrs 59 mins >>-----------------------   08.09 %
+Text                  31 hrs 31 mins  >------------------------   02.02 %
 ```
 
 <!--END_SECTION:waka-->
