@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    # Runs once a day at 1:00 AM, giving main.yml (animation generated at midnight) time to finish
+    - cron: "0 1 * * *"
 
 jobs:
   update-readme:
@@ -19,5 +19,6 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 5
+          # Show more languages (increased from 5 to 20)
+          LANG_COUNT: 20
           IGNORED_LANGUAGES: Binary YAML JSON TOML Docker
