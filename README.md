@@ -42,7 +42,41 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<p align="left">
+  <img src="./assets/tech-stack-icons/github.svg" height="40" alt="GitHub" title="GitHub" />
+  <img src="./assets/tech-stack-icons/socketio.svg" height="40" alt="Socket.IO" title="Socket.IO" />
+  <img src="./assets/tech-stack-icons/markdown.svg" height="40" alt="Markdown" title="Markdown" />
+  <img src="./assets/tech-stack-icons/flask.svg" height="40" alt="Flask" title="Flask" />
+  <img src="./assets/tech-stack-icons/kotlin.svg" height="40" alt="Kotlin" title="Kotlin" />
+  <img src="./assets/tech-stack-icons/mysql.svg" height="40" alt="MySQL" title="MySQL" />
+  <img src="./assets/tech-stack-icons/pandas.svg" height="40" alt="Pandas" title="Pandas" />
+  <img src="./assets/tech-stack-icons/numpy.svg" height="40" alt="NumPy" title="NumPy" />
+  <img src="./assets/tech-stack-icons/digitalocean.svg" height="40" alt="DigitalOcean" title="DigitalOcean" />
+  <img src="./assets/tech-stack-icons/flutter.svg" height="40" alt="Flutter" title="Flutter" />
+  <img src="./assets/tech-stack-icons/cplusplus.svg" height="40" alt="C++" title="C++" />
+  <img src="./assets/tech-stack-icons/python.svg" height="40" alt="Python" title="Python" />
+  <img src="./assets/tech-stack-icons/dart.svg" height="40" alt="Dart" title="Dart" />
+  <img src="./assets/tech-stack-icons/azure.svg" height="40" alt="Azure" title="Azure" />
+  <img src="./assets/tech-stack-icons/vscode.svg" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="./assets/tech-stack-icons/canva.svg" height="40" alt="Canva" title="Canva" />
+  <img src="./assets/tech-stack-icons/django.svg" height="40" alt="Django" title="Django" />
+  <img src="./assets/tech-stack-icons/android.svg" height="40" alt="Android" title="Android" />
+  <img src="./assets/tech-stack-icons/nginx.svg" height="40" alt="Nginx" title="Nginx" />
+  <img src="./assets/tech-stack-icons/opencv.svg" height="40" alt="OpenCV" title="OpenCV" />
+  <img src="./assets/tech-stack-icons/raspberrypi.svg" height="40" alt="Raspberry Pi" title="Raspberry Pi" />
+  <img src="./assets/tech-stack-icons/pytorch.svg" height="40" alt="PyTorch" title="PyTorch" />
+  <img src="./assets/tech-stack-icons/git.svg" height="40" alt="Git" title="Git" />
+  <img src="./assets/tech-stack-icons/figma.svg" height="40" alt="Figma" title="Figma" />
+  <img src="./assets/tech-stack-icons/postman.svg" height="40" alt="Postman" title="Postman" />
+  <img src="./assets/tech-stack-icons/tensorflow.svg" height="40" alt="TensorFlow" title="TensorFlow" />
+  <img src="./assets/tech-stack-icons/scikitlearn.svg" height="40" alt="scikit-learn" title="scikit-learn" />
+  <img src="./assets/tech-stack-icons/java.svg" height="40" alt="Java" title="Java" />
+  <img src="./assets/tech-stack-icons/rust.svg" height="40" alt="Rust" title="Rust" />
+  <img src="./assets/tech-stack-icons/typescript.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="./assets/tech-stack-icons/csharp.svg" height="40" alt="C#" title="C#" />
+</p>
+
+<sub>Also used: C, FastAPI, Kaggle, Arduino, Gunicorn, Jupyter Notebook, Keras, Jinja, and Matplotlib.</sub>
 
 <p>
  
@@ -60,24 +94,12 @@ Dart                               386 hrs 31 mins       >>>>>------------------
 Rust                               128 hrs 35 mins       >>-----------------------   06.99 %
 TypeScript                         73 hrs 20 mins        >------------------------   03.99 %
 C#                                 71 hrs 7 mins         >------------------------   03.87 %
-Text                               39 hrs 42 mins        >------------------------   02.16 %
-Markdown                           36 hrs 50 mins        >------------------------   02.00 %
-SQL                                26 hrs 20 mins        -------------------------   01.43 %
-HTML                               26 hrs 17 mins        -------------------------   01.43 %
-HTTP Request                       22 hrs 15 mins        -------------------------   01.21 %
-Other                              17 hrs 34 mins        -------------------------   00.96 %
-Bash                               15 hrs 29 mins        -------------------------   00.84 %
-JavaScript                         14 hrs 23 mins        -------------------------   00.78 %
-CSS                                7 hrs 5 mins          -------------------------   00.39 %
-GitIgnore file                     5 hrs 16 mins         -------------------------   00.29 %
-.env file                          4 hrs 50 mins         -------------------------   00.26 %
 ```
 
 <!--END_SECTION:waka-->
 </p>
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryan-s&show_icons=true&locale=en&count_private=true&theme=synthwave" alt="suryan-s" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryan-s&theme=synthwave" alt="suryan-s" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suryan-s&show_icons=true&locale=en&count_private=true&theme=synthwave" alt="Suryan S' GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suryan-s&theme=synthwave" alt="Suryan S' contribution streak" />
 </p>
-

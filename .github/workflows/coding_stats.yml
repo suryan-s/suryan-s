@@ -19,6 +19,6 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          # Show more languages (increased from 5 to 20)
-          LANG_COUNT: 20
+          # Only display the five primary languages in the README.
+          LANG_COUNT: 5
           IGNORED_LANGUAGES: Binary YAML JSON TOML Docker
