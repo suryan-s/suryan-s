@@ -100,6 +100,6 @@ C#                                 71 hrs 7 mins         >----------------------
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suryan-s&show_icons=true&locale=en&count_private=true&theme=synthwave" alt="Suryan S' GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suryan-s&theme=synthwave" alt="Suryan S' contribution streak" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=suryan-s&show_icons=true&locale=en&count_private=true&theme=synthwave" alt="Suryan S' GitHub stats" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=suryan-s&theme=synthwave" alt="Suryan S' contribution streak" />
 </p>
